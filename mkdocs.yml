@@ -1,0 +1,17 @@
+site_name: Shorty
+pages:
+- Home: index.md
+- User Guide:
+    - 'Installation': 'user-guide/installation.md'
+    - 'Troubleshooting': 'user-guide/troubleshooting.md'
+- Developer Guide:
+    - 'API Documentation': 'developer-guide/api.md'
+    - 'API Errors': 'developer-guide/api_errors.md'
+- About:
+    - 'License': 'about/license.md'
+    - 'Contributors': 'about/contributors.md'
+    - 'Contributing': 'about/contributing.md'
+
+theme: readthedocs
+repo_url: https://github.com/CodingMonkTech/shorty
+site_author: Coding Monk
