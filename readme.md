@@ -24,7 +24,7 @@ Installation TL;DR: clone or download this repository, set document root to `pub
 
 ### Live Site
 
-You can go to dyr.ec (http://shorty.codingmonk.tech) to see how your URL Shortner will look like.
+You can go to Shorty (http://shorty.codingmonk.tech) to see how your URL Shortner will look like.
 
 #### Versioning
 
