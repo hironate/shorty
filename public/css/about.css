@@ -1,0 +1,29 @@
+.content-div {
+    padding-top: 20px;
+    text-align: left;
+}
+
+.license {
+    font-size: 80%;
+    margin-top: 40px;
+    width: auto;
+    color: black;
+}
+
+.license-btn {
+    margin-top: 30px;
+    margin-bottom: 3em;
+    width: auto;
+}
+
+.logo-img {
+    width: 17em;
+}
+
+.logo-well {
+    width: 0em;
+
+    -webkit-animation: colorpulse 20s infinite;
+    animation: colorpulse 20s infinite;
+    -moz-animation: colorpulse 20s infinite;
+}
